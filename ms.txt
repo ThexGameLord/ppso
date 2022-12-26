@@ -1,5 +1,5 @@
 [Online]
-master.fordaboys.pages.dev
+master.fvm.giize.com
 [\Online]
 [Offline]
 192.168.1.120
