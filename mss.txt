@@ -1,7 +1,0 @@
-[Online]
-master.fvm.giize.com
-[\Online]
-[Offline]
-192.168.1.120
-192.168.1.203
-[\Offline]
