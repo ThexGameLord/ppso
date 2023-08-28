@@ -1,4 +1,3 @@
-<script>
 document.getElementById('subscribe-form').addEventListener('submit', function(event) {
   event.preventDefault(); // Prevent the form from submitting traditionally
 
@@ -26,4 +25,3 @@ document.getElementById('subscribe-form').addEventListener('submit', function(ev
     console.error('Error:', error);
   });
 });
-</script>
